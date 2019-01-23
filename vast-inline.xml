@@ -24,8 +24,11 @@
 
                         <VideoClicks>
                             <ClickThrough>
-                                https://testinline.nk.com/videoclick2
+                                https://testinline.nk.com/videoclick/through
                             </ClickThrough>
+                            <ClickTracking>
+                                https://testinline.nk.com/videoclick
+                            </ClickTracking>
                         </VideoClicks>
 
                     </Linear>

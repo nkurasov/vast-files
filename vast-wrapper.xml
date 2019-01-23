@@ -15,6 +15,12 @@
                             <Tracking event="firstQuartile">https://testwrapper.nk.com/tracking/firstQuartile</Tracking>
                             <Tracking event="midpoint">https://testwrapper.nk.com/tracking/midpoint</Tracking>
                         </TrackingEvents>
+
+                        <VideoClicks>
+                            <ClickTracking>
+                                https://testwrapper.nk.com/videoclick
+                            </ClickTracking>
+                        </VideoClicks>
                     </Linear>
                 </Creative>
             </Creatives>
