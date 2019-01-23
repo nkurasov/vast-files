@@ -3,16 +3,17 @@
         <InLine>
             <AdSystem version="4.0">iabtechlab</AdSystem>
 
-            <Error>https://example.com/error</Error>
+            <Error>https://testinline.nk.com/error</Error>
 
-            <Impression id="Impression-ID">https://example.com/track/impression</Impression>
+            <Impression id="Impression-ID">https://testinline.nk.com/track/impression</Impression>
 
             <Creatives>
                 <Creative id="5480" sequence="1">
                     <Linear>
                         <Duration>00:00:16</Duration>
                         <TrackingEvents>
-                            <Tracking event="firstQuartile">https://example.com/tracking/firstQuartile</Tracking>
+                            <Tracking event="firstQuartile">https://testinline.nk.com/tracking/firstQuartile</Tracking>
+                            <Tracking event="thirdQuartile">https://testinline.nk.com/tracking/firstQuartile</Tracking>
                         </TrackingEvents>
 
                         <MediaFiles>
@@ -23,7 +24,7 @@
 
                         <VideoClicks>
                             <ClickThrough>
-                                https://example.com/videoclick2
+                                https://testinline.nk.com/videoclick2
                             </ClickThrough>
                         </VideoClicks>
 

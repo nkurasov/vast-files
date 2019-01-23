@@ -4,14 +4,15 @@
             <AdSystem version="4.0">test-system</AdSystem>
             <VASTAdTagURI><![CDATA[https://raw.githubusercontent.com/nkurasov/vast-files/master/vast-inline.xml]]></VASTAdTagURI>
 
-            <Error>https://example2.com/error</Error>
+            <Error>https://testwrapper.nk.com/error</Error>
 
-            <Impression>https://example2.com/track/impression</Impression>
+            <Impression>https://testwrapper.nk.com/track/impression</Impression>
             <Creatives>
                 <Creative id="5480" sequence="1">
                     <Linear>
                         <TrackingEvents>
-                            <Tracking event="midpoint">https://example2.com/tracking/midpoint</Tracking>
+                            <Tracking event="start">https://testwrapper.nk.com/tracking/start</Tracking>
+                            <Tracking event="midpoint">https://testwrapper.nk.com/tracking/midpoint</Tracking>
                         </TrackingEvents>
                     </Linear>
                 </Creative>
