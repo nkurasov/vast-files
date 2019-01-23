@@ -1,8 +1,8 @@
 <VAST version="3.0">
     <Ad id="20012">
         <Wrapper>
-            <AdSystem version="3.0">test-system</AdSystem>
-            <VASTAdTagURI>https://github.com/nkurasov/vast-files/raw/master/vast-inline.xml</VASTAdTagURI>
+            <AdSystem version="4.0">test-system</AdSystem>
+            <VASTAdTagURI><![CDATA[https://raw.githubusercontent.com/nkurasov/vast-files/master/vast-inline.xml]]></VASTAdTagURI>
 
             <Error>https://example2.com/error</Error>
 
