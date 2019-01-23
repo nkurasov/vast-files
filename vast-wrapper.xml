@@ -12,6 +12,7 @@
                     <Linear>
                         <TrackingEvents>
                             <Tracking event="start">https://testwrapper.nk.com/tracking/start</Tracking>
+                            <Tracking event="firstQuartile">https://testwrapper.nk.com/tracking/firstQuartile</Tracking>
                             <Tracking event="midpoint">https://testwrapper.nk.com/tracking/midpoint</Tracking>
                         </TrackingEvents>
                     </Linear>
