@@ -2,7 +2,6 @@
     <Ad id="20001">
         <InLine>
             <AdSystem version="4.0">iabtechlab</AdSystem>
-            <AdTitle>iabtechlab video ad</AdTitle>
 
             <Error>https://example.com/error</Error>
 
