@@ -3,7 +3,7 @@
         <Wrapper>
             <AdSystem version="3.0">test-system</AdSystem>
             <AdTitle>Test Ad</AdTitle>
-            <VASTAdTagURI>https://github.com/nkurasov/vast-files/blob/master/vast-inline.xml</VASTAdTagURI>
+            <VASTAdTagURI>https://github.com/nkurasov/vast-files/raw/master/vast-inline.xml</VASTAdTagURI>
 
             <Error>https://example2.com/error</Error>
 
