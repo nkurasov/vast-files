@@ -1,0 +1,26 @@
+<VAST version="3.0">
+    <Ad id="20012">
+        <Wrapper>
+            <AdSystem version="3.0">iabtechlab</AdSystem>
+            <AdTitle>Test Ad</AdTitle>
+            <VASTAdTagURI>https://github.com/InteractiveAdvertisingBureau/VAST_Samples/blob/master/VAST%203.0%20Samples/Inline_Linear_Tag-test.xml</VASTAdTagURI>
+
+            <Error>https://example.com/error</Error>
+
+            <Impression>https://example.com/track/impression</Impression>
+            <Creatives>
+                <Creative id="5480" sequence="1">
+                    <Linear>
+                        <TrackingEvents>
+                            <Tracking event="start" offset="09:15:23">https://example2.com/tracking/start</Tracking>
+                            <Tracking event="firstQuartile">https://example2.com/tracking/firstQuartile</Tracking>
+                            <Tracking event="midpoint">https://example2.com/tracking/midpoint</Tracking>
+                            <Tracking event="thirdQuartile">https://example2.com/tracking/thirdQuartile</Tracking>
+                            <Tracking event="complete">https://example2.com/tracking/complete</Tracking>
+                        </TrackingEvents>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </Wrapper>
+    </Ad>
+</VAST>
