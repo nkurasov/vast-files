@@ -1,13 +1,13 @@
 <VAST version="3.0">
     <Ad id="20012">
         <Wrapper>
-            <AdSystem version="3.0">iabtechlab</AdSystem>
+            <AdSystem version="3.0">test-system</AdSystem>
             <AdTitle>Test Ad</AdTitle>
-            <VASTAdTagURI>https://github.com/InteractiveAdvertisingBureau/VAST_Samples/blob/master/VAST%203.0%20Samples/Inline_Linear_Tag-test.xml</VASTAdTagURI>
+            <VASTAdTagURI>https://github.com/nkurasov/vast-files/blob/master/vast-inline.xml</VASTAdTagURI>
 
-            <Error>https://example.com/error</Error>
+            <Error>https://example2.com/error</Error>
 
-            <Impression>https://example.com/track/impression</Impression>
+            <Impression>https://example2.com/track/impression</Impression>
             <Creatives>
                 <Creative id="5480" sequence="1">
                     <Linear>
